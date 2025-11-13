@@ -1,0 +1,9 @@
+TARGET=O3
+
+Baseline (claude-style)
+Train: R2=0.613 RMSE=21.56 MAE=15.66
+Test : R2=0.771 RMSE=13.54 MAE=10.61
+
+Modelo ML (.joblib)
+Train: R2=0.874 RMSE=12.30 MAE=7.32
+Test : R2=0.760 RMSE=13.86 MAE=9.95

@@ -1,0 +1,9 @@
+TARGET = O3
+
+Baseline
+Train: R2=0.593 RMSE=22.11 MAE=15.37
+Test : R2=0.823 RMSE=11.90 MAE=8.99
+
+Baseline + Residual ML
+Train: R2=0.875 RMSE=12.23 MAE=7.13
+Test : R2=0.781 RMSE=13.26 MAE=9.69

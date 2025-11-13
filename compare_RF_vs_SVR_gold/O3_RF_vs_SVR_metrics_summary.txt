@@ -1,0 +1,16 @@
+=== SUMMARY: Baseline GOLD vs RF vs SVR ===
+
+Baseline GOLD
+R2_test   = 0.823
+RMSE_test = 11.90
+MAE_test  = 8.99
+
+Random Forest Residual
+R2_test   = 0.839
+RMSE_test = 11.35
+MAE_test  = 8.52
+
+SVR Residual (Best Model)
+R2_test   = 0.856
+RMSE_test = 10.73
+MAE_test  = 8.03
